@@ -1,4 +1,4 @@
-# Global-Innovation-Index-Analysis
+# Global Innovation Index Analysis
 
 ## Fonte
 
