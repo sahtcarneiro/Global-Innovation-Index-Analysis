@@ -14,14 +14,14 @@ O índice considera a sofisticação dos negócios, do mercado, infraestrutura, 
 Para facilitar sua navegação, irei destrincha como o repositório será dividido.
 
 - Repositório:
-  - ReadME
-    Você está aqui!
-  - Analysis
-    Aqui estarão disponibilizadas todas as análises de dados que eu fizer no decorrer do projeto.
-  - Datasets
-    Aqui estão os dados oficiais disponibilizados pelas pesquisas.
-  - Report
-    Aqui, irei disponibilizar um relátorio com base nas análises que foram feitas e apresentadas.
+  - ReadME  
+     Você está aqui!
+  - Analysis  
+     Aqui estarão disponibilizadas todas as análises de dados que eu fizer no decorrer do projeto.
+  - Datasets  
+     Aqui estão os dados oficiais disponibilizados pelas pesquisas.
+  - Report  
+     Aqui, irei disponibilizar um relátorio com base nas análises que foram feitas e apresentadas.
 
 ## Ferramentas
 
